@@ -2,6 +2,8 @@
 
 Project from 2015/05 on AMBP2.
 
+Data folder is on Synology at: `/volume1/homes/andyreagan/2013/05-proofwiki-node-prediction-data`
+
 ## existing notes
 
 building up the network with time dynamics
